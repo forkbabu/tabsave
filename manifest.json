@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Save Tab URLs",
+  "version": "1.0",
+  "description": "Save all tab URLs into a file.",
+  "permissions": ["tabs"],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
